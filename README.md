@@ -1,7 +1,7 @@
 <h1 align="center"> 👇 Website - Template</h1>
 
 <h2>📄 About The Project:</h2>
-<p>My Third Development For a Template Project</p>
+<p>My Third Template Project</p>
 <h2 align="center">📸 Screenshots of the Project 📸</h2>
 <img src="https://i.imgur.com/964v2dU.jpg" alt="website-image">
 
